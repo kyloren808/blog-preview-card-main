@@ -1,0 +1,92 @@
+:root {
+  --clr-background: hsl(47, 88%, 63%);
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-grey: hsl(0, 0%, 50%);
+  --clr-black: hsl(0, 0%, 7%);
+
+  --fw-normal: 500;
+  --fw-bold: 800;
+
+  --ffam: "Figtree", sans-serif;
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: var(--ffam);
+  background-color: var(--clr-background);
+  color: var(--clr-grey);
+  font-weight: var(--fw-normal);
+  line-height: 150%;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
+article {
+  width: 384px;
+  height: 522px;
+  padding: 1.5em;
+  background-color: var(--clr-white);
+  border: 1px solid var(--clr-black);
+  border-radius: 1.125em;
+  box-shadow: 8px 8px 0 0 var(--clr-black);
+}
+article img {
+  width: 100%;
+  border-radius: 0.625em;
+}
+.header {
+  margin-top: 1.5em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75em;
+}
+.tag {
+  font-weight: var(--fw-bold);
+  font-size: 0.875rem;
+  color: var(--clr-black);
+  margin: 0;
+  width: 82px;
+  height: 29px;
+  text-align: center;
+  padding: 0.25em 0.75em;
+  border-radius: 0.25em;
+  background: var(--clr-background);
+}
+.publish-date {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: var(--clr-black);
+}
+.header h1 {
+  font-size: 1.5rem;
+  font-weight: var(--fw-bold);
+  color: var(--clr-black);
+}
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 0.875em;
+  margin-top: 1.5em;
+}
+.profile img {
+  width: 2em;
+  height: 2em;
+}
+.profile p {
+  font-weight: var(--fw-bold);
+  font-size: 0.875rem;
+  color: var(--clr-black);
+  margin: 0;
+  align-self: baseline;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 4.5em;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
