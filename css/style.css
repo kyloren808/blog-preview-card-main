@@ -93,3 +93,24 @@ article img {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+@media (max-width: 600px) {
+  article {
+    width: 327px;
+    height: 501px;
+  }
+  .header p {
+    font-size: 0.875rem;
+    font-weight: 300;
+  }
+  .header a {
+    font-size: 1.25rem;
+  }
+  .publish-date {
+    font-size: 0.75rem;
+    font-weight: 300;
+  }
+  .tag {
+    font-size: 1.25;
+    font-weight: 800;
+  }
+}
