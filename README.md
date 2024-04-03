@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog Preview Card](https://your-solution-url.com)
+- Solution URL: [Blog Preview Card](https://www.frontendmentor.io/solutions/responsive-blog-post-preview-using-flexbox-WY4WEp_lF2)
 - Live Site URL: [Live - Blog Preview Card](https://kyloren808.github.io/blog-preview-card-main/)
 
 ## My process
