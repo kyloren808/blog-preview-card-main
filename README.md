@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Blog Preview Card](https://your-solution-url.com)
+- Live Site URL: [Live - Blog Preview Card](https://kyloren808.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -42,13 +42,13 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I got more practices with flexbox for layout of the different parts of the design. I also had a chance to do a media query to set the design to be responsive on mobile. As I complete various challenges, I feel I get a bit better at this frontend development.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I would like to continue with flexbox and start some grid layouts to further my skills in laying out different and more complex layout/designs.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Nathaniel Coleman](https://www.turtleshellwebdesigns.com)
+- Frontend Mentor - [@kyloren808](https://www.frontendmentor.io/profile/kyloren808)
